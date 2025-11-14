@@ -38,3 +38,5 @@ Open the stream via [flv.js](https://github.com/Bilibili/flv.js/)
 ### Feedback
 
 [GitHub Issues](https://github.com/lewangdev/docker-nginx-http-flv/issues)
+### keep in mind
+if you try to build from a server in china,try to replace the github or ubuntu source to chinese mirror host, so it will not have network issue.
